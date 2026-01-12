@@ -85,13 +85,13 @@ Monitors network activity and connections.
 ```bash
 chmod +x script_name.sh
 ```
-Run the script:
+2. Run the script:
 
 ````bash
 ./script_name.sh
 ````
 
-## ⚠️ Note:
+### ⚠️ Note:
 Some scripts require sudo for actions such as:
 - Killing system processes
 - Setting CPU affinity
