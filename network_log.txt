@@ -1,0 +1,108 @@
+Listening on enp0s3
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 gautam-VirtualBox                        =>       332b       328b       328b       246B
+     dns1.rnc.net.cable.rogers.com            <=       644b       608b       608b       456B
+   2 gautam-VirtualBox                        =>         0b       159b       159b       119B
+     lcyyzn-in-f93.1e100.net                  <=         0b       159b       159b       119B
+--------------------------------------------------------------------------------------------
+Total send rate:                                       332b       487b       487b
+Total receive rate:                                    644b       767b       767b
+Total send and receive rate:                           976b     1.22Kb     1.22Kb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     1.10Kb     1.62Kb     2.72Kb
+Cumulative (sent/received/total):                      365B       575B       940B
+============================================================================================
+
+Generated network traffic report for interface enp0s3 at 26-11-2025 01:50:09
+Listening on enp0s3
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 gautam-VirtualBox                        =>         0b     4.04Kb     4.04Kb     4.04KB
+     151.101.125.91                           <=         0b     76.2Kb     76.2Kb     76.2KB
+   2 gautam-VirtualBox                        =>         0b     5.19Kb     5.19Kb     5.19KB
+     203.137.36.34.bc.googleusercontent.com   <=         0b     31.1Kb     31.1Kb     31.1KB
+   3 gautam-VirtualBox                        =>         0b     8.12Kb     8.12Kb     8.12KB
+     lcyyzn-in-f93.1e100.net                  <=         0b     3.78Kb     3.78Kb     3.78KB
+   4 gautam-VirtualBox                        =>     15.1Kb     3.78Kb     3.78Kb     3.78KB
+     lcyyzn-in-f95.1e100.net                  <=     26.3Kb     6.57Kb     6.57Kb     6.57KB
+   5 gautam-VirtualBox                        =>     0.98Kb     1.62Kb     1.62Kb     1.62KB
+     dns.cs.net.rogers.com                    <=     1.30Kb     3.35Kb     3.35Kb     3.35KB
+--------------------------------------------------------------------------------------------
+Total send rate:                                     16.1Kb     22.7Kb     22.7Kb
+Total receive rate:                                  27.6Kb      121Kb      121Kb
+Total send and receive rate:                         43.7Kb      144Kb      144Kb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     71.9Kb      451Kb      522Kb
+Cumulative (sent/received/total):                    22.7KB      121KB      144KB
+============================================================================================
+
+Generated network traffic report for interface enp0s3 at 26-11-2025 01:52:20
+Listening on enp0s3
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 gautam-VirtualBox                        =>     17.6Kb     5.88Kb     5.88Kb     4.41KB
+     pnyyzb-in-f119.1e100.net                 <=      253Kb     84.2Kb     84.2Kb     63.1KB
+   2 gautam-VirtualBox                        =>     1.13Kb       605b       605b       454B
+     dns.cs.net.rogers.com                    <=     2.03Kb     1.45Kb     1.45Kb     1.09KB
+--------------------------------------------------------------------------------------------
+Total send rate:                                     18.8Kb     6.47Kb     6.47Kb
+Total receive rate:                                   255Kb     85.6Kb     85.6Kb
+Total send and receive rate:                          273Kb     92.1Kb     92.1Kb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     18.8Kb      255Kb      273Kb
+Cumulative (sent/received/total):                    4.85KB     64.2KB     69.1KB
+============================================================================================
+
+Generated network traffic report for interface enp0s3 at 26-11-2025 01:56:49
+Listening on enp0s3
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 gautam-VirtualBox                        =>         0b     3.92Kb     1.40Kb     4.90KB
+     api.snapcraft.io                         <=         0b     7.65Kb     2.73Kb     9.56KB
+   2 gautam-VirtualBox                        =>       336b       134b       483b     1.65KB
+     dns.cp.net.rogers.com                    <=       672b       226b       867b     2.96KB
+   3 gautam-VirtualBox                        =>         0b       179b     4.43Kb     15.5KB
+     api.snapcraft.io                         <=         0b       147b     18.1Kb     63.4KB
+   4 gautam-VirtualBox                        =>         0b       179b       460b     1.57KB
+     dashboard.snapcraft.io                   <=         0b       147b     11.9Kb     41.8KB
+   5 gautam-VirtualBox                        =>       320b       128b        91b       320B
+     82.221.107.34.bc.googleusercontent.com   <=       320b       128b        91b       320B
+   6 gautam-VirtualBox                        =>       476b        95b        34b       119B
+     203.137.36.34.bc.googleusercontent.com   <=       476b        95b        34b       119B
+   7 gautam-VirtualBox                        =>       476b        95b        34b       119B
+     80.54.36.34.bc.googleusercontent.com     <=       476b        95b        34b       119B
+   8 gautam-VirtualBox                        =>       476b        95b        34b       119B
+     151.101.125.91                           <=       476b        95b        34b       119B
+   9 gautam-VirtualBox                        =>       476b        95b        34b       119B
+     93.243.107.34.bc.googleusercontent.com   <=       476b        95b        34b       119B
+  10 gautam-VirtualBox                        =>         0b        32b     11.5Kb     40.2KB
+     darkbowser.canonical.com                 <=         0b        32b     13.4Mb     46.9MB
+--------------------------------------------------------------------------------------------
+Total send rate:                                     2.50Kb     4.96Kb     25.1Kb
+Total receive rate:                                  2.83Kb     8.72Kb     16.1Mb
+Total send and receive rate:                         5.33Kb     13.7Kb     16.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                      213Kb      220Mb      220Mb
+Cumulative (sent/received/total):                    87.8KB     56.5MB     56.6MB
+============================================================================================
+
+Generated network traffic report for interface enp0s3 at 26-11-2025 11:21:21
+Generated network traffic report for interface ens33 at 27-11-2025 16:20:50
+Listening on ens33
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 gill-virtual-machine                     =>         0b       397b       397b       397B
+     _gateway                                 <=         0b       485b       485b       485B
+   2 gill-virtual-machine                     =>         0b        76b        76b        76B
+     alphyn.canonical.com                     <=         0b        76b        76b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                         0b       473b       473b
+Total receive rate:                                      0b       561b       561b
+Total send and receive rate:                             0b     1.01Kb     1.01Kb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     1.24Kb     1.59Kb     2.83Kb
+Cumulative (sent/received/total):                      473B       561B     1.01KB
+============================================================================================
+
+Generated network traffic report for interface ens33 at 27-11-2025 16:25:56

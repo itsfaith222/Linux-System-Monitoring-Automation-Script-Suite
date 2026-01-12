@@ -1,0 +1,31 @@
+2025-11-26 11:34:33 -- CPU usage: 13.9%
+2025-11-26 11:34:39 -- CPU usage: 8.3%
+2025-11-26 11:34:46 -- CPU usage: 8.6%
+2025-11-26 11:34:52 -- CPU usage: 11.2%
+2025-11-26 11:34:58 -- CPU usage: 8.6%
+2025-11-26 11:35:04 -- CPU usage: 10.8%
+2025-11-26 11:35:11 -- CPU usage: 8.6%
+2025-11-26 11:35:17 -- CPU usage: 10.8%
+2025-11-26 11:35:23 -- CPU usage: 10.5%
+2025-11-26 11:35:29 -- CPU usage: 10.8%
+2025-11-26 11:35:35 -- CPU usage: 10.3%
+2025-11-26 11:35:42 -- CPU usage: 11.5%
+2025-11-26 11:35:48 -- CPU usage: 10.8%
+2025-11-26 11:35:54 -- CPU usage: 8.6%
+2025-11-26 11:36:00 -- CPU usage: 10.5%
+2025-11-26 11:36:07 -- CPU usage: 8.4%
+2025-11-26 11:36:13 -- CPU usage: 8.6%
+2025-11-26 11:36:19 -- CPU usage: 8.6%
+2025-11-26 11:36:25 -- CPU usage: 8.4%
+2025-11-26 11:36:31 -- CPU usage: 8.6%
+2025-11-26 11:41:06 -- pid 6451's current affinity list: 0,1
+pid 6451's new affinity list: 0
+2025-11-26 11:41:44 -- pid 6513's current affinity list: 0,1
+pid 6513's new affinity list: 0,1
+2025-11-26 11:42:31 -- ALERT: CPU usage is HIGH at 16.2%!
+2025-11-26 11:42:33 -- ALERT: CPU usage is HIGH at 23.5%!
+2025-11-26 11:42:51 -- ALERT: CPU usage is HIGH at 29.4%!
+2025-11-26 11:42:53 -- ALERT: CPU usage is HIGH at 20%!
+2025-11-26 11:42:57 -- ALERT: CPU usage is HIGH at 22.2%!
+2025-11-26 11:43:00 -- ALERT: CPU usage is HIGH at 19.4%!
+2025-11-26 11:43:02 -- ALERT: CPU usage is HIGH at 22.2%!

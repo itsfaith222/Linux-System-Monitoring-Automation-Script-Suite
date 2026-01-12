@@ -1,0 +1,39 @@
+2025-11-26 11:00:18 -- Process 5979 has been terminated!
+2025-11-26 11:06:09 -- Could not find processes for systemd+.
+2025-11-26 11:06:33 -- Could not find processes for geoclue.
+-------------------------2025-11-26 11:12:44------------------------
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+gill        1847  2.0  6.4 4305876 272148 ?      Ssl  10:37   0:44 /usr/bin/gnome-shell
+gill        5936  0.8  1.4 636428 62564 ?        Sl   10:57   0:07 /usr/bin/gedit --gapplication-service
+root        1364  0.6  1.1 446636 47020 ?        Ssl  10:31   0:16 /usr/libexec/packagekitd
+root         614  0.5  0.2 317388  9088 ?        Ssl  10:31   0:12 /usr/bin/vmtoolsd
+-------------------------2025-11-26 11:13:45------------------------
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+gill        1847  2.0  6.4 4305876 272148 ?      Ssl  10:37   0:45 /usr/bin/gnome-shell
+gill        5936  0.7  1.4 636428 62564 ?        Sl   10:57   0:07 /usr/bin/gedit --gapplication-service
+root        1364  0.6  1.1 446636 47020 ?        Ssl  10:31   0:16 /usr/libexec/packagekitd
+root         614  0.5  0.2 317388  9088 ?        Ssl  10:31   0:13 /usr/bin/vmtoolsd
+-------------------------2025-11-26 11:14:46------------------------
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+gill        1847  2.0  6.4 4305876 272148 ?      Ssl  10:37   0:46 /usr/bin/gnome-shell
+gill        5936  0.7  1.4 636428 62564 ?        Sl   10:57   0:07 /usr/bin/gedit --gapplication-service
+root        1364  0.6  1.1 446636 47020 ?        Ssl  10:31   0:16 /usr/libexec/packagekitd
+root         614  0.5  0.2 317388  9088 ?        Ssl  10:31   0:13 /usr/bin/vmtoolsd
+-------------------------2025-11-26 11:15:47------------------------
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+gill        1847  2.0  6.4 4305876 272148 ?      Ssl  10:37   0:46 /usr/bin/gnome-shell
+gill        5936  0.7  1.4 636428 62564 ?        Sl   10:57   0:07 /usr/bin/gedit --gapplication-service
+root        1364  0.6  1.1 446636 47020 ?        Ssl  10:31   0:16 /usr/libexec/packagekitd
+root         614  0.5  0.2 317388  9088 ?        Ssl  10:31   0:13 /usr/bin/vmtoolsd
+-------------------------2025-11-26 11:16:48------------------------
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+gill        1847  1.9  6.4 4305876 272148 ?      Ssl  10:37   0:47 /usr/bin/gnome-shell
+root        1364  0.6  1.1 446636 47020 ?        Ssl  10:31   0:16 /usr/libexec/packagekitd
+gill        5936  0.6  1.4 636428 62564 ?        Sl   10:57   0:07 /usr/bin/gedit --gapplication-service
+root         614  0.5  0.2 317388  9088 ?        Ssl  10:31   0:14 /usr/bin/vmtoolsd
+-------------------------2025-11-26 11:17:49------------------------
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+gill        1847  1.9  6.4 4305892 272148 ?      Ssl  10:37   0:47 /usr/bin/gnome-shell
+root        1364  0.6  1.1 446636 47020 ?        Ssl  10:31   0:16 /usr/libexec/packagekitd
+gill        5936  0.6  1.4 636428 62564 ?        Sl   10:57   0:07 /usr/bin/gedit --gapplication-service
+root         614  0.5  0.2 317388  9088 ?        Ssl  10:31   0:14 /usr/bin/vmtoolsd
