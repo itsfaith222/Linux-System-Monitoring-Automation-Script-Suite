@@ -84,45 +84,35 @@ Monitors network activity and connections.
 1. Make the script executable:
 ```bash
 chmod +x script_name.sh
+```
 Run the script:
 
-bash
-Copy code
+````bash
 ./script_name.sh
-⚠️ Note:
+````
+
+## ⚠️ Note:
 Some scripts require sudo for actions such as:
-
-Killing system processes
-
-Setting CPU affinity
-
-Clearing memory cache
-
-Monitoring network traffic
+- Killing system processes
+- Setting CPU affinity
+- Clearing memory cache
+- Monitoring network traffic
 
 Example:
-
-bash
-Copy code
+````bash
 sudo ./cpu_manager_tool.sh
-📝 Logs & Output
+````
+
+## 📝 Logs & Output
 Several scripts generate log files to store system monitoring data over time. These logs allow users to review historical activity such as:
+- CPU usage alerts
+- Process monitoring
+- Network traffic tracking
 
-CPU usage alerts
-
-Process monitoring
-
-Network traffic tracking
-
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 Through this project, we gained hands-on experience with:
-
-Linux process, CPU, memory, file system, and network management
-
-Bash scripting and automation
-
-System monitoring and logging
-
-Using /proc system files
-
-Writing user-friendly CLI tools
+- Linux process, CPU, memory, file system, and network management
+- Bash scripting and automation
+- System monitoring and logging
+- Using /proc system files
+- Writing user-friendly CLI tools
